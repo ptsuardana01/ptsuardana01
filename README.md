@@ -1,5 +1,12 @@
 ### Hi 👋 I'm Putu Suardana
 
+A student of Informatics Engineering currently studying Web and Android Mobile Development. I am learning JavaScript as the main language in Web Programming. As for Android Developer, I'm learning Kotlin language.
+
+- 🔭 I’m currently study in Universitas Pendidikan Ganesha (UNDIKSHA) Singaraja
+- 🌱 I’m currently learning JavaScript and Kotlin (Android) Fundamental
+- 📫 How to reach me: ptsuardana01@gmail.com
+- ⚡ Fun fact: My hand has ten finger 🤔
+
 <!--
 **ptsuardana01/ptsuardana01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
