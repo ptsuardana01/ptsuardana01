@@ -10,7 +10,7 @@ A student of Informatics Engineering currently studying Web and Android Mobile D
 ### Skills to learn
 
 <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-<a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" /></a>
+<a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" /></a>
 <br>
 <br>
 
