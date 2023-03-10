@@ -9,13 +9,15 @@ A student of Informatics Engineering currently studying Web and Android Mobile D
 
 ### Skills to learn
 
-<a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-<a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" /></a>
+<a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+<a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" /></a>
 <br>
 <br>
 
 ### My Github Static
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ptsuardana01&show_icons=true&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/ptsuardana01">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ptsuardana01&show_icons=true&include_all_commits=true&count_private=true"/>
+</a>
 
 <!--
 **ptsuardana01/ptsuardana01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
