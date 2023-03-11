@@ -1,7 +1,8 @@
 ### Hi 👋 I'm Putu Suardana
 
-A student of Informatics Engineering currently studying Web and Android Mobile Development. I am learning JavaScript as the main language in Web Programming. As for Android Developer, I'm learning Kotlin language.
+A student of Informatics Engineering currently studying Web and Android Mobile Development. I'm learning JavaScript as the main language in Web Programming. And for Android Developer, I'm learning Kotlin language.
 
+- 📍 I'm currently participating in the MBKM (Internship and Certified Self-Study) Batch 4 Bangkit Academy Android Mobile Development Learning Path led by Google, Tokopedia, Gojek, & Traveloka.
 - 🔭 I’m currently study in Universitas Pendidikan Ganesha (UNDIKSHA) Singaraja
 - 🌱 I’m currently learning JavaScript and Kotlin (Android) Fundamental
 - 📫 How to reach me: ptsuardana01@gmail.com
@@ -11,7 +12,6 @@ A student of Informatics Engineering currently studying Web and Android Mobile D
 
 <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" /></a>
-<br>
 <br>
 
 ### My Github Static
