@@ -2,7 +2,8 @@
 
 A student of Informatics Engineering currently studying Web and Android Mobile Development. I'm learning JavaScript as the main language in Web Programming. And for Android Developer, I'm learning Kotlin language.
 
-- 📍 I'm currently participating in the MBKM (Internship and Certified Self-Study) Batch 4 Bangkit Academy Android Mobile Development Learning Path led by Google, Tokopedia, Gojek, & Traveloka.
+- 💼 I'm the one of Lukita Founder in Incubation program by Bangkit Icubation 2023 led by Google, Tokopedia, Gojek, & Traveloka.
+- 📍 I'm Android Mobile Development graduates at Bangkit Academy Batch 4 2023 led by Google, Tokopedia, Gojek, & Traveloka.
 - 🔭 I’m currently study in Universitas Pendidikan Ganesha (UNDIKSHA) Singaraja
 - 🌱 I’m currently learning JavaScript and Kotlin (Android) Fundamental
 - 📫 How to reach me: ptsuardana01@gmail.com
